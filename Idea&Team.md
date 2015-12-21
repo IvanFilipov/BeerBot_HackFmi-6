@@ -5,9 +5,12 @@ Our team will create a BeerBot - "Alexander Chewbalski" , which purpose is to me
 The team :
 
 Ivan Filipov - author and team leader
+
 Vladimir Draganov - https://github.com/VladimirDraganov
+
 Kiril Kostov - https://github.com/kkostovk
-Ivailo Keriazov - 
+
+Ivailo Keriazov  
 
 The BeerBot is called after engineer Alexandur Filipov and Nikolay Petrov for giving us a hand with 
 mechanical problems.
