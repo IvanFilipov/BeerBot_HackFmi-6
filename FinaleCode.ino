@@ -18,7 +18,7 @@
 //min and max temp for the perfect beer
 //info from our survey
 #define TEMP_LOW_LEVEL 5
-#define TEMP_HIGH_LEVEL 30
+#define TEMP_HIGH_LEVEL 11
 
 
 //our custom char defines
